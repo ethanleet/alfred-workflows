@@ -1,7 +1,7 @@
 # alfred-workflows
 A collection of my Alfred Workflows
 
-## Screenshot OCR (v1.0.0)
+## Screenshot OCR [v1.0.0](https://github.com/ethanleet/alfred-workflows/releases/tag/v1.0.0)
 
 ### Select a region of your screen -> take a screenshot -> text is copied to your clipboard!
 
