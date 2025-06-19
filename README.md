@@ -47,13 +47,18 @@ Basically why I bother making this.
 - Made by Sindre Sorhus (His apps are awesome!)
 - Does not require Alfred Powerpack
 
-[**Alfred OCR Light**](https://github.com/zeitlings/alfred-workflows?tab=readme-ov-file#161-alfred-ocr-light)
+[**Alfred OCR Light**](https://alfred.app/workflows/zeitlings/ocr-light/)
 - Open source Alfred Workflow
 - Requires manually configuring languages
 - Keeps misidentifying languages
+
+[**Alfred OCR**](https://alfred.app/workflows/alanhe/ocr/)
+- Open source Alfred Workflow
+- Requires installing a Shortcut
+- Shortcuts are so slow to trigger
 
 [**Shortcuts**](https://www.icloud.com/shortcuts/b99e3f936bbb474fb32d1f88b8ae6806)
 - No third party apps
 - Supports all Apple devices
 - If you want to use a keyboard shortcut, the behavior could be funky
-- Shortcuts are so slow...
+- Shortcuts are so slow to trigger
